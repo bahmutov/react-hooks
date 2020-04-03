@@ -25,5 +25,9 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://taniarascia.github.io/react-hooks"
+  "homepage": "https://taniarascia.github.io/react-hooks",
+  "devDependencies": {
+    "cypress": "4.3.0",
+    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.5"
+  }
 }
